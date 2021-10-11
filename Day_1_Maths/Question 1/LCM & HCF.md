@@ -1,8 +1,12 @@
 # LCM & HCF 
 
 ```
-You are given 2 numbers X and Y which are respectively the LCM and HCF of the numbers A and B. Also you are given Z which is the sum of the numbers A and B.
-Your task is to complete the function printNumbers which takes integers X,Y and Z as input and prints the values of A and B.
+You are given 2 numbers X and Y which are respectively the LCM 
+and HCF of the numbers A and B. Also you are given Z which is 
+the sum of the numbers A and B.
+
+Your task is to complete the function printNumbers which takes
+integers X,Y and Z as input and prints the values of A and B.
 ```
 ```
 Test Cases:-
