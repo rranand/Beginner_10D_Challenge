@@ -10,6 +10,6 @@
 
   ✅ You can code in any language of your preference.
   
-Link to submit the Answer : https://docs.google.com/forms/d/e/1FAIpQLSfdch4ASzgOnx90fNcisS2E_vdcp8fbTHMh_Ht6v-U_SI-_Ww/viewform
+Link to submit the Answer : https://forms.gle/YQd5EBMh5ecAnkAn8
 
 Link to Join the discussion Group : https://chat.whatsapp.com/HFZ71pe6lMa7Mye3A3Dx1H
