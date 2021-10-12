@@ -1,15 +1,37 @@
-# Beginner_10D_Challenge
+# Problem Statement 2
 
-  To participate in the challenge all you need to do is:
+You have recently joined the office. And Michael has given you your first task. You have to make a digital clock. It's up to you how you want to do it. There is only one condition it has to look cool.
 
-  ✅ Solve the given coding questions and submit it before 5:30pm of the very next day in the provided google form.
 
-  ✅ While attempting the problems read the questions carefully and consider the test cases if given!
+**Input format :**
 
-  ✅ Optimized solutions and submission time will be given more preference
+You will be given a 4 letter string, describing the 24 hours format.
 
-  ✅ You can code in any language of your preference.
-  
-Link to submit the Answer : https://forms.gle/YQd5EBMh5ecAnkAn8
+**Output format:**
 
-Link to Join the discussion Group : https://chat.whatsapp.com/HFZ71pe6lMa7Mye3A3Dx1H
+Return output in the seven segment format
+
+    ....  ....  ....  ....
+    .  .  .  .  .  .  .  .
+    .  .  .  .  .  .  .  .
+    ....  ....  ....  ....
+    .  .  .  .  .  .  .  .
+    .  .  .  .  .  .  .  .
+    ....  ....  ....  ....
+
+**Example input:**
+
+> 1900
+
+**Example Output:** 
+
+       .  ....   ....  ....
+       .  .  .   .  .  .  .
+       .  .  .   .  .  .  .
+       .  ....   .  .  .  .
+       .     .   .  .  .  .
+       .     .   .  .  .  .
+       .  ....   ....  ....  
+
+**Explanation:**
+In the input you are given 7pm in 24 hours format.
