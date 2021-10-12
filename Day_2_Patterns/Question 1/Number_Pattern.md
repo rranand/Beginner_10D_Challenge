@@ -1,15 +1,29 @@
-# Beginner_10D_Challenge
+# Problem statement 1
 
-  To participate in the challenge all you need to do is:
+**Write a program to print the following pattern**
+ 
+### Test case 1
 
-  ✅ Solve the given coding questions and submit it before 5:30pm of the very next day in the provided google form.
+**Input** 
 
-  ✅ While attempting the problems read the questions carefully and consider the test cases if given!
+> 4
 
-  ✅ Optimized solutions and submission time will be given more preference
+**Output** 
 
-  ✅ You can code in any language of your preference.
-  
-Link to submit the Answer : https://forms.gle/YQd5EBMh5ecAnkAn8
+    1*2*3*4*17*18*19*20
+    --5*6*7*14*15*16
+    ----8*9*12*13
+    ------10*11
 
-Link to Join the discussion Group : https://chat.whatsapp.com/HFZ71pe6lMa7Mye3A3Dx1H
+### Test case 2
+Input
+
+> 3
+
+Output
+
+    1*2*3*10*11*12
+    --4*5*8*9
+    ----6*7
+
+Note: Each hyphen represents one space
