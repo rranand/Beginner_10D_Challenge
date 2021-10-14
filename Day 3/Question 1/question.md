@@ -2,12 +2,13 @@ Print the total number of combination that is possible with 1s and 2s such that 
 
 ***Example:***
 
-***Input*** <br />
-3
-***Output*** <br />
+***Input***<br />
 3
 
-***Explanation:*** <br />
+***Output***<br />
+3
+
+***Explanation:***<br />
 1 1 1 
 1 2 
 2 1 
