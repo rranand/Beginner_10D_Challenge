@@ -1,4 +1,4 @@
-#You are given two numbers L and R. You need to find all number in [L, R] such that choosed number is divisible by its digit.
+`#`You are given two numbers L and R. You need to find all number in [L, R] such that choosed number is divisible by its digit.
 
 #Note: If number has zero digit (like 102), you can ignore divisibility check for zero.
 
@@ -13,5 +13,5 @@
 ***Output:***<br />
 3 4 5 6 7 8 9 10 11 12
 
-**Explanation:**
+**Explanation:**<br />
 13 is not divisible by 3. 14 is not divisible by 4
