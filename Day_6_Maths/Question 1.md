@@ -5,22 +5,22 @@
 
 ***Test Case 1:***
 
-***Input:***
-20 <br />
+***Input:*** <br />
+20 
 
-***Output:***
-No <br />
+***Output:*** <br />
+No 
 
-***Explanation:***
-Factors of 20 are 1, 2, 4, 5, 10 and 20. It has 6 factors so answer is no. <br />
+***Explanation:*** <br />
+Factors of 20 are 1, 2, 4, 5, 10 and 20. It has 6 factors so answer is no. 
 
 ***Test Case 2:***
 
-***Input:***
-9 <br />
+***Input:*** <br />
+9 
 
-***Output:***
-Yes <br />
+***Output:*** <br />
+Yes
 
-***Explanation:***
-Factors of 9 are 1, 3 and 9. It has 3 factors so answer is Yes. <br />
+***Explanation:*** <br />
+Factors of 9 are 1, 3 and 9. It has 3 factors so answer is Yes. 
