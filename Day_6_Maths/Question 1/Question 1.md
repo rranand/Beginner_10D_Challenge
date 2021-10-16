@@ -1,7 +1,7 @@
-### You are given a number. You need to check if given number has exactly three factors. If it has exactly three factors then print yes else no.
+You are given a number. You need to check if given number has exactly three factors. If it has exactly three factors then print yes else no.
 
-***Constraint:***
-1 <= N <= 10^9 <br />
+***Constraint:***  <br />
+1 <= N <= 10^9
 
 ***Test Case 1:***
 
